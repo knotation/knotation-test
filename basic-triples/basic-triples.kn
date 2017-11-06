@@ -1,0 +1,7 @@
+: <https://example.com/s1>
+<https://example.com/p1>: <https://example.com/o1>
+<https://example.com/p2>: "o2"
+
+: <https://example.com/s2>
+<https://example.com/p>: <https://example.com/o3>
+<https://example.com/p2>: "o4"

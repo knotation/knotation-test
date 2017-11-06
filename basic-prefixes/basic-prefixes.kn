@@ -1,0 +1,7 @@
+@prefix ex: <https://example.com/>
+
+: ex:s1
+ex:p1: o1
+
+: ex:s2
+ex:p1: o2
